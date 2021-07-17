@@ -38,7 +38,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | AWS
+- 🔧 &nbsp; AWS | Docker🐳 | Firebase
 
 <hr>
 
@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhiAgarwal115&show_icons=true)](https://github.com/shivam0110)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhiAgarwal115&show_icons=true)](https://github.com/ShubhiAgarwal115)
 
 <br/>
 
@@ -64,7 +64,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Feel Free to Connect with Me </h3>
 
 <br>
 
@@ -72,7 +72,7 @@
 
 <p align="center">
 
-<a href=""><img alt="Website" src="https://img.shields.io/badge/shivammalpani.netlify.app-black?style=flat-square&logo=google-chrome"></a>
+
 
 <a href="https://www.linkedin.com/in/shubhi-agarwal-8b5106187/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ShubhiAgarwal115-blue?style=flat-square&logo=linkedin"></a>
 
